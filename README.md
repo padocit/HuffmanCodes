@@ -1,9 +1,7 @@
 # HuffmanCodes
 
-*  <Greedy Algorithms>
+*  **Greedy Algorithms**
 *  Huffman Codes (instead of ASCII)
-*  https://en.wikipedia.org/wiki/Huffman_coding
-*  https://stanford-cs161.github.io/winter2024/assets/files/lecture14-notes.pdf
 
 ## 특징
 
@@ -48,3 +46,9 @@
 - 보완: 우선순위대로 다음 left, right를 정한다 -> top Node를 heap에 삽입
 
 > 하지만 코드가 더 지저분해질 가능성이 있어서 현재로서는 현상 유지
+
+## 참고 자료
+
+*  Honglab 알고리듬 파트1 - Greedy Algorithms (홍정모)
+*  https://en.wikipedia.org/wiki/Huffman_coding
+*  https://stanford-cs161.github.io/winter2024/assets/files/lecture14-notes.pdf
